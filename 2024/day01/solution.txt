@@ -1,0 +1,3 @@
+What is Devops?
+
+DevOps is a methodology to deliver the code faster.
